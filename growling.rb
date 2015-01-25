@@ -1,4 +1,3 @@
 0.upto(9) do
-	puts "Grrrrrrr"
+	puts "Hello world, Grrrrrrr"
 end
-
